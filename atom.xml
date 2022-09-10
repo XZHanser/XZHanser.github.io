@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>XZH web</title>
+  <title>梓·Blog</title>
   <icon>http://example.com/icon.png</icon>
-  
+  <subtitle>何以解忧，唯有措大母娘</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-08T02:45:55.259Z</updated>
+  <updated>2022-09-10T07:51:55.509Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>X Zihao</name>
+    <name>X-梓</name>
     
   </author>
   
@@ -18,10 +18,10 @@
   
   <entry>
     <title>博客-1</title>
-    <link href="http://example.com/2022/09/08/%E5%8D%9A%E5%AE%A2-1/"/>
-    <id>http://example.com/2022/09/08/%E5%8D%9A%E5%AE%A2-1/</id>
+    <link href="http://example.com/posts/1da6bf39.html"/>
+    <id>http://example.com/posts/1da6bf39.html</id>
     <published>2022-09-08T02:41:38.000Z</published>
-    <updated>2022-09-08T02:45:55.259Z</updated>
+    <updated>2022-09-10T07:51:55.509Z</updated>
     
     
       
@@ -41,10 +41,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/09/08/hello-world/"/>
-    <id>http://example.com/2022/09/08/hello-world/</id>
+    <link href="http://example.com/posts/4a17b156.html"/>
+    <id>http://example.com/posts/4a17b156.html</id>
     <published>2022-09-08T02:37:20.444Z</published>
-    <updated>2022-09-08T02:37:20.444Z</updated>
+    <updated>2022-09-10T07:51:55.507Z</updated>
     
     
       
