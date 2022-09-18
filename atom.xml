@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-18T12:46:12.535Z</updated>
+  <updated>2022-09-18T13:44:26.132Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/posts/a8c73388.html"/>
     <id>http://example.com/posts/a8c73388.html</id>
     <published>2022-09-11T02:00:00.000Z</published>
-    <updated>2022-09-18T12:46:12.535Z</updated>
+    <updated>2022-09-18T13:44:26.132Z</updated>
     
     
     <summary type="html">‘瑞吉外卖开发笔记 一 笔记内容为黑马程序员视频内容 1、软件开发整体介绍 软件开发流程 角色分工 软件环境 2、瑞奇外卖项目介绍 项目介绍 产品原型展示 技术选型 功能架构 角色 3、环境搭建 数据库环境搭建 创建数据库 执行SQL脚本 数据表 maven项目搭建’</summary>
